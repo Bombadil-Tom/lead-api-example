@@ -50,7 +50,7 @@ This document explains the design choices made for the FastAPI application that 
 
 The main application code includes the FastAPI instance, models, schemas, and route handlers. The structure ensures that the application is easy to understand and maintain.
 
-### Environment Variables
+### Environment Variables (TODO)
 
 Sensitive information like email credentials is stored in environment variables to enhance security. This prevents hardcoding sensitive data in the source code.
 
